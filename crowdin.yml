@@ -1,10 +1,9 @@
-project_id: fintrack-core-continuous
-api_token_env: CROWDIN_API_TOKEN
-base_path: .
+# Clean String-Based Configuration (No translation paths allowed)
+project_id: "fintrack-core-continuous"
+base_path: "."
+
 files:
-  - source: /locales/en_UI.json
-    translation: /locales/%locale_id%/%original_file_name%
-  - source: /locales/en_alerts.json
-    translation: /locales/%locale_id%/%original_file_name%
-bundles:
-  - 6
+  - source: "/locales/en_UI.json"
+    type: "json"
+  - source: "/locales/en_alerts.json"
+    type: "json"
