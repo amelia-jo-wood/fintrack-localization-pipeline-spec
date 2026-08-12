@@ -1,9 +1,17 @@
-# Clean String-Based Configuration (No translation paths allowed)
-project_id: "fintrack-core-continuous"
-base_path: "."
+"project_id": "918317"
+"api_token": "89d467d97de8d6cf6d7ba54d1c8e38aaf1cc597b82c56aaec7c3813c8421950f3c164ec4ba749afa"
+"base_path": "."
+"base_url": "https://api.crowdin.com"
 
-files:
-  - source: "/locales/en_UI.json"
-    type: "json"
-  - source: "/locales/en_alerts.json"
-    type: "json"
+"preserve_hierarchy": true
+
+"files": [
+  {
+  "source": "/locales/en_UI.json"
+  "translation": "/locales/%two_letters_code%/%original_file_name%"
+  },
+  {
+  "source": "/locales/en_alerts.json"
+  "translation": "/locales/%two_letters_code%/%original_file_name%"
+  },
+]
