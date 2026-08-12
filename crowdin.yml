@@ -7,4 +7,4 @@ files:
   - source: /locales/en_alerts.json
     translation: /locales/%locale_id%/%original_file_name%
 bundles:
-  - 4
+  - 6
