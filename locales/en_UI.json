@@ -1,4 +1,34 @@
 {
+  "Main user dashboard greeting": {
+    "dashboard_welcome": "Welcome to your FinTrack dashboard."
+  },
+  "Onboarding or setup action item": {
+    "dashboard_link_checking": "Please link your checking account to start."
+  },
+  "Financial status notification warning": {
+    "alert_budget_exceeded": "You have exceeded your monthly budget."
+  },
+  "account billing status warning": {
+    "alert_subscription_expired": "Your subscription has expired."
+  },
+  "General navigation menu or button label": {
+    "ui_nav_settings": "Settings"
+  },
+  "Standard dialog dismissal or abort action": {
+    "ui_button_cancel": "Cancel"
+  },
+  "Confirmation action for forms or preferences": {
+    "ui_button_save": "Save Changes"
+  },
+  "System exception modal message": {
+    "error_generic_retry": "An error occurred. Please try again."
+  },
+  "Link text for transaction drilldown": {
+    "action_view_history": "View detailed transaction history."
+  },
+  "Trust badge or legal disclosure snippet": {
+    "footer_security_plaid": "Secure bank integration powered by Plaid."
+  },
   "Welcome to your FinTrack dashboard.": "Welcome to your FinTrack dashboard.",
   "Please link your checking account to start.": "Please link your checking account to start.",
   "You have exceeded your monthly budget.": "You have exceeded your monthly budget.",
