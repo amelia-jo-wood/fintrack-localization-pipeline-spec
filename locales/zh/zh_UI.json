@@ -1,7 +1,7 @@
 {
-  "auth_login_header": "Welcome back to FinTrack!",
-  "auth_welcome_banner": "Hello <strong>{user_name}</strong>, your financial summary is ready.",
-  "dashboard_cta_link_bank": "Link Account",
-  "billing_overdraft_warning": "ALERT: Your account ending in {account_last_four} incurred an overdraft fee of %d.",
-  "settings_privacy_policy": "By enabling synchronization, you agree to our <a href=\"/legal/privacy\">Privacy Policy</a>."
+  "auth_login_header": "欢迎回到 FinTrack",
+  "auth_welcome_banner": "您好 <strong>{user_name}</strong>，您的财务摘要已准备就绪。",
+  "dashboard_cta_link_bank": "关联账户",
+  "billing_overdraft_warning": "提醒：尾号为 {account_last_four} 的账户产生了 %d 的透支费。",
+  "settings_privacy_policy": "启用同步即表示您同意我们的 <a href="/legal/privacy">Privacy Policy</a>。"
 }
