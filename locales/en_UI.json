@@ -1,7 +1,47 @@
 {
-  "auth_login_header": "Welcome back to FinTrack!",
+  "Main user dashboard greeting": {
+    "dashboard_welcome": "Welcome to your FinTrack dashboard."
+  },
+  "Onboarding or setup action item": {
+    "dashboard_link_checking": "Please link your checking account to start."
+  },
+  "Financial status notification warning": {
+    "alert_budget_exceeded": "You have exceeded your monthly budget."
+  },
+  "account billing status warning": {
+    "alert_subscription_expired": "Your subscription has expired."
+  },
+  "General navigation menu or button label": {
+    "ui_nav_settings": "Settings"
+  },
+  "Standard dialog dismissal or abort action": {
+    "ui_button_cancel": "Cancel"
+  },
+  "Confirmation action for forms or preferences": {
+    "ui_button_save": "Save Changes"
+  },
+  "System exception modal message": {
+    "error_generic_retry": "An error occurred. Please try again."
+  },
+  "Link text for transaction drilldown": {
+    "action_view_history": "View detailed transaction history."
+  },
+  "Trust badge or legal disclosure snippet": {
+    "footer_security_plaid": "Secure bank integration powered by Plaid."
+  },
+  "Welcome to your FinTrack dashboard.": "Welcome to your FinTrack dashboard.",
+  "Please link your checking account to start.": "Please link your checking account to start.",
+  "You have exceeded your monthly budget.": "You have exceeded your monthly budget.",
+  "Your subscription has expired.": "Your subscription has expired.",
+  "Settings": "Settings",
+  "Cancel": "Cancel",
+  "Save Changes": "Save Changes",
+  "An error occurred. Please try again.": "An error occurred. Please try again.",
+  "View detailed transaction history.": "View detailed transaction history.",
+  "Secure bank integration powered by Plaid.": "Secure bank integration powered by Plaid.",
   "auth_welcome_banner": "Hello <strong>{user_name}</strong>, your financial summary is ready.",
   "dashboard_cta_link_bank": "Link Account",
   "billing_overdraft_warning": "ALERT: Your account ending in {account_last_four} incurred an overdraft fee of %d.",
-  "settings_privacy_policy": "By enabling synchronization, you agree to our <a href=\"/legal/privacy\">Privacy Policy</a>."
+  "settings_privacy_policy": "By enabling synchronization, you agree to our <a href=\"/legal/privacy\">Privacy Policy</a>.",
+  "auth_login_header": "Welcome back to FinTrack!"
 }
