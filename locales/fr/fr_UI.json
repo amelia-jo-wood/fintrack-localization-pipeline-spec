@@ -1,7 +1,7 @@
 {
-  "auth_welcome_banner": "Bonjour <strong>{user_name}</strong>, votre récapitulatif financier est prêt. ",
+  "auth_welcome_banner": "Bonjour <strong>{user_name}</strong>, votre récapitulatif financier est prêt.",
   "dashboard_cta_link_bank": "Associer le compte",
   "billing_overdraft_warning": "ALERTE : Des frais de découvert de %d ont été prélevés sur votre compte se terminant par {account_last_four}.",
-  "settings_privacy_policy": "En activant la synchronisation, vous acceptez notre <a href="/legal/privacy">Privacy Policy</a>.",
+  "settings_privacy_policy": "En activant la synchronisation, vous acceptez notre <a href=\"/legal/privacy\">Privacy Policy</a>.",
   "auth_login_header": "Bon retour sur FinTrack !"
 }
