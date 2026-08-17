@@ -1,1 +1,50 @@
-
+{
+  "Main user dashboard greeting": {
+    "dashboard_welcome": "欢迎使用您的 FinTrack 仪表板。"
+  },
+  "Onboarding or setup action item": {
+    "dashboard_link_checking": "请绑定您的支票账户以开始使用。"
+  },
+  "Financial status notification warning": {
+    "alert_budget_exceeded": "您已超出每月预算。"
+  },
+  "account billing status warning": {
+    "alert_subscription_expired": "您的订阅已过期。"
+  },
+  "General navigation menu or button label": {
+    "ui_nav_settings": "设置"
+  },
+  "Standard dialog dismissal or abort action": {
+    "ui_button_cancel": "取消"
+  },
+  "Confirmation action for forms or preferences": {
+    "ui_button_save": "保存更改"
+  },
+  "System exception modal message": {
+    "error_generic_retry": "发生错误。请重试。"
+  },
+  "Link text for transaction drilldown": {
+    "action_view_history": "查看详细的交易记录。"
+  },
+  "Trust badge or legal disclosure snippet": {
+    "footer_security_plaid": "由 Plaid 支持的安全银行集成。"
+  },
+  "auth_welcome_banner": "您好 <strong>{user_name}</strong>，您的财务摘要已准备就绪。",
+  "dashboard_cta_link_bank": "关联账户",
+  "billing_overdraft_warning": "提醒：尾号为 {account_last_four} 的账户产生了 %d 的透支费。",
+  "settings_privacy_policy": "启用同步即表示您同意我们的 <a href=\"/legal/privacy\">Privacy Policy</a>。",
+  "auth_login_header": "欢迎回到 FinTrack！",
+  "Welcome to your FinTrack dashboard.": "欢迎使用您的 FinTrack 仪表板。",
+  "Please link your checking account to start.": "请绑定您的支票账户以开始使用。",
+  "You have exceeded your monthly budget.": "您已超出每月预算。",
+  "Your subscription has expired.": "您的订阅已过期。",
+  "Settings": "设置",
+  "Cancel": "取消",
+  "Save Changes": "保存更改",
+  "An error occurred. Please try again.": "发生错误。请重试。",
+  "View detailed transaction history.": "查看详细的交易记录。",
+  "Secure bank integration powered by Plaid.": "由 Plaid 支持的安全银行集成。",
+  "promo_trial_ending": "{count, plural, one {您的高级会员试用期仅剩 1 天！} other {您的高级会员试用期还剩 {count} 天！}}}",
+  "notification_cashback_alert": "恭喜！您本月获得了价值 {amount} 墨西哥比索的现金返还。",
+  "error_network_timeout": "连接超时。[请重试]或联系客服。"
+}
