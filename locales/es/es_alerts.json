@@ -1,1 +1,5 @@
-
+{
+  "promo_trial_ending": "{count, plural, one {¡Solo te queda 1 día de prueba premium!} other {¡Te quedan {count} días de prueba premium!}}",
+  "notification_cashback_alert": "¡Felicidades! Has ganado {amount} MXN en reembolsos este mes.",
+  "error_network_timeout": "Tiempo de espera de conexión agotado. [Reintente] o póngase en contacto con el soporte técnico."
+}
