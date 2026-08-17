@@ -1,7 +1,0 @@
-{
-  "auth_welcome_banner": "Hola <strong>{user_name}</strong>, tu resumen financiero está listo. ",
-  "dashboard_cta_link_bank": "Vincular cuenta",
-  "billing_overdraft_warning": "ALERTA: Su cuenta terminada en {account_last_four} generó un cargo por sobregiro de %d.",
-  "settings_privacy_policy": "Al activar la sincronización, aceptas nuestra <a href="/legal/privacy">Privacy Policy</a>.",
-  "auth_login_header": "¡Bienvenido de nuevo a FinTrack!"
-}
