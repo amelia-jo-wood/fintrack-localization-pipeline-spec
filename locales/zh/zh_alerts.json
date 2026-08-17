@@ -1,5 +1,0 @@
-{
-  "promo_trial_ending": "{count, plural, one {You have only 1 day remaining in your premium trial!} other {You have {count} days remaining in your premium trial!}}",
-  "notification_cashback_alert": "Congratulations! You earned {amount} MXN in cashback this month.",
-  "error_network_timeout": "Connection timeout. [Retry] or contact support."
-}
