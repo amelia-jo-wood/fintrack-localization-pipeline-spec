@@ -1,1 +1,5 @@
-
+{
+  "promo_trial_ending": "{count, plural, one {Il ne vous reste qu'une journée d'essai premium !} autre {Il vous reste {count} jours d'essai premium !}}",
+  "notification_cashback_alert": "Félicitations ! Vous avez gagné {amount} MXN en cashback ce mois-ci.",
+  "error_network_timeout": "Délai de connexion dépassé. [Réessayer] ou contacter l'assistance."
+}
