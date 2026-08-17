@@ -1,1 +1,5 @@
-
+{
+  "promo_trial_ending": "{count, plural, one {您的高级会员试用期仅剩 1 天！} other {您的高级会员试用期还剩 {count} 天！}}}",
+  "notification_cashback_alert": "恭喜！您本月获得了价值 {amount} 墨西哥比索的现金返还。",
+  "error_network_timeout": "连接超时。[请重试]或联系客服。"
+}
